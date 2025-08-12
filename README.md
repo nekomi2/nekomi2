@@ -1,4 +1,4 @@
-## Hi there 👋
+## Just horsing around 🐴
 
 <!--
 **nekomi2/nekomi2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
